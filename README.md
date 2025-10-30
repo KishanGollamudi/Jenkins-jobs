@@ -28,6 +28,10 @@ This pipeline uses the following GitHub repository as the source:
 
    * Deploys the final build to the target server/environment.
 
+## Server Details
+
+The Jenkins server was hosted on an **AWS EC2 instance (t2.micro)**.
+
 ## Jenkins Installation Script
 
 The following script was used to install Jenkins on an Ubuntu server:
